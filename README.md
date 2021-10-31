@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @lolikk
+- 👀 I’m interested in efficiant programming
+- 🌱 I’m currently wroking for an AGV company in Belgium
+- 💞️ I’m looking to collaborate on software projects
+- 📫 How to reach me -> danelectro@live.com
